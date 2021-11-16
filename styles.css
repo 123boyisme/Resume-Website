@@ -1,0 +1,89 @@
+/*margin*/
+body {
+	margin-left: 1in;
+	margin-right: 1in;
+
+}
+
+/*nav*/
+nav ul{
+	list-style: none;
+	background-color: black;
+	padding: 10px 0px 10px 0px;
+	position: relative;
+
+}
+nav ul li{
+	display: inline;
+}
+nav li{
+	padding: 60px;
+}
+
+nav a{
+	color: white;
+	text-decoration: none;
+	padding: .5em 1em;
+}
+nav li a:hover{
+	background-color: green;
+}
+
+/* header stuff*/
+h1{
+
+	font-family:Georgia;
+}
+h1{
+	font-size: 3em;
+}
+h2{
+	font-size: 2em;
+	font-style: italic;
+	color:Grey;
+	margin-bottom: -7px;
+}
+.feature{
+	margin-top:42px;
+	line-height: 0;
+	font-size:1.5em;
+	font-family:Garamond;
+	font-weight: bold;
+}
+p{
+	font-family:Garamond;
+	font-size: 18px;
+	padding-bottom:0px;
+}
+.location{
+	line-height: 0;
+}
+.date{
+	line-height: 0;
+	font-size: 15px;
+
+}
+/* list stuff*/
+li{
+	font-size:1.5em;
+	font-family:Garamond;
+	font-weight: bold;
+	padding-bottom: 15px;
+
+}
+.desc{
+
+	font-family:Garamond;
+	font-size: 18px;
+	padding-bottom: 15px;
+
+}
+.workdate{
+		font-size: 15px;
+}
+.contactInfo{
+	font-style: Georgia;
+}
+.projectsText{
+	padding-bottom: 15px;
+}
